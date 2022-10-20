@@ -8,5 +8,3 @@ I’m hands on in all stages of the software development cycle, from planning an
 &emsp; Something that I love about software development is the opportunity to work with people from a wide range of disciplines. The software development lifecycle involves working with so many different people and departments and, as a person who loves to build new relationships, it’s great to be able to come together with other professionals who are striving towards the same goal.
 
 
-- 📫 How to reach me: 
-Skype: live:.cid.28f10944f3e2bf72
