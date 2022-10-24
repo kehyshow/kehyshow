@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-&emsp;  I’m a software developer, specializing in the web and app development arena.<br> 
+&emsp;  I’m a software developer, specializing in the web and mobile application, blockchain development arena.<br> 
 For the last 6 years, I have been developing web and mobile applications using <b>JavaScript, TypeScript, React, Angular, Vue.js, Python and Java</b> programming languages.<br>
 
 &emsp;  I’m currently looking for a new position as a software developer. <br>
